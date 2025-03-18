@@ -6,7 +6,7 @@ import { useState } from "react";
 import Header from "@/app/(components)/header";
 import Rating from "@/app/(components)/rating";
 import CreateProductModal from "./CreateProductModal";
-import Image from "next/image";
+// import Image from "next/image";
 
 type ProductFormData = {
   name: string;

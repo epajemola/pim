@@ -2,8 +2,8 @@
 
 import { useAppDispatch, useAppSelector } from "@/app/redux";
 import { setIsSidebarCollapsed } from "@/state";
-import { Bell, Menu, Moon, Settings, Sun } from "lucide-react";
-import Image from "next/image";
+import { Bell, Menu, Settings } from "lucide-react";
+// import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
